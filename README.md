@@ -5,6 +5,11 @@
 [![CI](https://github.com/tsutsu3/uc.micro-py/actions/workflows/github-ci.yml/badge.svg?branch=main)](https://github.com/tsutsu3/uc.micro-py/actions)
 [![codecov](https://codecov.io/gh/tsutsu3/uc.micro-py/branch/main/graph/badge.svg?token=5Y7559D69U)](https://codecov.io/gh/tsutsu3/uc.micro-py)
 
+>[!NOTE]
+>This repository has been archived because it is no longer used by linkify-it-py starting with [v2.2.0](https://github.com/tsutsu3/linkify-it-py/releases/tag/v2.2.0).
+>
+>No further maintenance or updates are planned.
+
 This is a Python port of [uc.micro](https://github.com/markdown-it/uc.micro).
 
 > Micro subset of unicode data files for [linkify-it-py](https://github.com/tsutsu3/linkify-it-py) projects.
